@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wantanaiCS/wantanaiCS/main/assets/banner.png" alt="WantanaiCS Banner" width="100%" />
+</p>
+
 # Hi, I'm Wantanai 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;OOP+%26+Enterprise+Systems;Aspiring+Junior+Programmer" alt="Typing SVG" />
