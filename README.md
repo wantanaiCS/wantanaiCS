@@ -53,12 +53,6 @@ domain modeling, inheritance, polymorphism, Repository Pattern, Console UI, and 
 ---
 
 ## 📊 GitHub Stats
-
-<p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wantanaiCS&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantanaiCS&layout=compact&theme=dark&hide_border=true" />
-</p>
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantanaiCS&theme=dark&hide_border=true" />
 </p>
