@@ -121,7 +121,7 @@ ASP.NET Core MVC · Design Patterns · SQL Server Internals
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true&background=0d1117" width="65%" />
 </p>
 
 <p align="center">
