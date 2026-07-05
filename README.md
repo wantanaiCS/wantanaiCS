@@ -2,97 +2,146 @@
   <img src="https://raw.githubusercontent.com/wantanaiCS/wantanaiCS/main/assets/banner.png" alt="WantanaiCS Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Wantanai 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=80&section=header" />
+</p>
+
+<h1 align="center">👋 ระบบต้องมั่นคง โค้ดต้องสะอาด นี่คือ Wantanai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;OOP+%26+Enterprise+Systems;Aspiring+Junior+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=class+Wantanai+%3A+Developer;%7B+builds+clean+OOP+code+%7D;while+(true)+%7B+learn()%3B+build()%3B+%7D" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wantanaiCS&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/wantanaiCS?label=Followers&style=for-the-badge&color=2EA043" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=wantanaiCS&color=2EA043&style=flat-square&label=VISITORS" />
+  <img src="https://img.shields.io/github/followers/wantanaiCS?label=FOLLOWERS&style=flat-square&color=2EA043" />
+  <img src="https://img.shields.io/badge/STATUS-COMPILING...-2EA043?style=flat-square" />
 </p>
 
-### 🎯 Aspiring Junior Programmer | C# · .NET · OOP · SQL Server
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-I'm building a strong foundation in **Object-Oriented Programming** and **.NET technologies**,
-with a focus on writing clean, maintainable, industrial-grade software.
-Currently preparing for a career in software development for manufacturing / enterprise systems.
+<!-- ⬆️ ต้องตั้ง GitHub Action ก่อนถึงจะเป็นของคุณจริงๆ (บอกผมได้ ผมเขียน workflow ให้) -->
 
-🔭 Currently building **CameraStock Manager** — a C# inventory management system covering
-domain modeling, inheritance, polymorphism, Repository Pattern, Console UI, and SQL Server integration.
+<br/>
 
-🎮 Also developing **QuizSlayer** — an educational RPG that turns studying into a game.
+## 🗂️ system.log
 
-📚 Actively studying: C#, OOP principles, ASP.NET Core MVC, SQL Server, Design Patterns.
+```bash
+$ whoami
+> Wantanai — Aspiring Junior Programmer (C# / .NET)
 
----
+$ cat mission.txt
+> เขียนซอฟต์แวร์ระดับอุตสาหกรรมที่ "สะอาด" ตั้งแต่วันแรก
+> ไม่ใช่แค่ให้รัน แต่ให้คนอื่นอ่านโค้ดแล้วเข้าใจ
 
-## 🧰 Tech Stack
+$ ps -ef | grep building
+wantanai   CameraStock Manager      C# · Repository Pattern · SQL Server
+wantanai   QuizSlayer                RPG ที่แปลงการอ่านหนังสือให้เป็นเกม
 
-**Languages & Frameworks**
+$ echo $CURRENTLY_LEARNING
+ASP.NET Core MVC · Design Patterns · SQL Server Internals
+```
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>
 
-**Database**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🧠 Focus
 
-**Tools**
+- 🎯 OOP ให้แน่น ก่อนไปเร็ว
+- 🏗️ Repository Pattern & Clean Architecture
+- 🗃️ SQL Server ตั้งแต่ query ยันดีไซน์ schema
+- 🖥️ Console UI ที่ใช้งานจริงได้ ไม่ใช่แค่ demo
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+### 🚀 Roadmap
 
-## 📌 Featured Projects
+```
+[✅] C# Fundamentals & OOP
+[✅] Repository Pattern
+[🔄] ASP.NET Core MVC
+[🔄] Design Patterns (GoF)
+[⬜] Cloud & CI/CD
+[⬜] Junior Developer role
+```
 
-| Project | Description | Tech |
-|---|---|---|
-| 🗄️ [InventoryManagementSystem](https://github.com/wantanaiCS/InventoryManagementSystem) | 8-phase C# console app implementing OOP, Repository Pattern, and SQL Server integration | `C#` `SQL Server` |
-| 🎫 [IT_Support_Ticket_Logger](https://github.com/wantanaiCS/IT_Support_Ticket_Logger) | Ticket logging system built with C# | `C#` |
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 🧬 Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wantanaiCS&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantanaiCS&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,ts,mssql,vscode,git,github&theme=dark" />
+</p>
+
+<br/>
+
+## 📦 Featured Builds
+
+<table>
+<tr>
+<td width="50%">
+
+**🗄️ [InventoryManagementSystem](https://github.com/wantanaiCS/InventoryManagementSystem)**
+<br/>8-phase C# console app — OOP, Repository Pattern, SQL Server
+<br/>`C#` `SQL Server`
+
+</td>
+<td width="50%">
+
+**🎫 [IT_Support_Ticket_Logger](https://github.com/wantanaiCS/IT_Support_Ticket_Logger)**
+<br/>ระบบ log ticket แจ้งปัญหา IT
+<br/>`C#`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wantanaiCS&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantanaiCS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wantanaiCS&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wantanaiCS&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
-<!--
-🐍 Contribution Snake (สาย 3D/Snake animation)
-1. ไปสร้าง workflow ตามคู่มือ: https://github.com/Platane/snk
-2. หลังตั้งค่า GitHub Action เสร็จ จะได้ไฟล์ SVG อัตโนมัติ เอา URL มาแปะแทนบรรทัดด้านล่างนี้แล้วลบ comment ออก
+<br/>
+
+## 💬 Terminal Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wantanaiCS/wantanaiCS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
--->
 
----
+<br/>
 
-## 📫 Connect with me
+## 📡 Reach Me
 
-<!-- แทนที่ # ด้วยลิงก์จริงของคุณ -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wantanai.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wantanai.cs@gmail.com)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=80&section=footer" />
+</p>
 
----
-
-<p align="center"><i>Currently studying and building toward a career as a C#/.NET Developer 🚀</i></p>
+<p align="center"><i>// TODO: become a great C#/.NET Developer 🚀</i></p>
