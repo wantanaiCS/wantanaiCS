@@ -2,9 +2,16 @@
   <img src="https://raw.githubusercontent.com/wantanaiCS/wantanaiCS/main/assets/banner.png" alt="WantanaiCS Banner" width="100%" />
 </p>
 
-# Hi, I'm Wantanai 👋
+<h1 align="center">Hi, I'm Wantanai 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;OOP+%26+Enterprise+Systems;Aspiring+Junior+Programmer" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;OOP+%26+Enterprise+Systems;Aspiring+Junior+Programmer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wantanaiCS&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/wantanaiCS?label=Followers&style=for-the-badge&color=2EA043" alt="Followers" />
+</p>
 
 ### 🎯 Aspiring Junior Programmer | C# · .NET · OOP · SQL Server
 
@@ -53,15 +60,36 @@ domain modeling, inheritance, polymorphism, Repository Pattern, Console UI, and 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantanaiCS&theme=dark&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wantanaiCS&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantanaiCS&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wantanaiCS&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!--
+🐍 Contribution Snake (สาย 3D/Snake animation)
+1. ไปสร้าง workflow ตามคู่มือ: https://github.com/Platane/snk
+2. หลังตั้งค่า GitHub Action เสร็จ จะได้ไฟล์ SVG อัตโนมัติ เอา URL มาแปะแทนบรรทัดด้านล่างนี้แล้วลบ comment ออก
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wantanaiCS/wantanaiCS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+-->
 
 ---
 
 ## 📫 Connect with me
 
 <!-- แทนที่ # ด้วยลิงก์จริงของคุณ -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wantanai.cs@gmail.com)
 
