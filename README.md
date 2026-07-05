@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=80&section=header" />
 </p>
 
-<h1 align="center">👋 ระบบต้องมั่นคง โค้ดต้องสะอาด นี่คือ Wantanai</h1>
+<h1 align="center">👋 Hello, I'm Wantanai</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=class+Wantanai+%3A+Developer;%7B+builds+clean+OOP+code+%7D;while+(true)+%7B+learn()%3B+build()%3B+%7D" alt="Typing SVG" />
@@ -91,26 +91,7 @@ ASP.NET Core MVC · Design Patterns · SQL Server Internals
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=3&section=header" width="100%"/>
 </p>
 
-## 📦 Featured Builds
 
-<table>
-<tr>
-<td width="50%">
-
-**🗄️ [InventoryManagementSystem](https://github.com/wantanaiCS/InventoryManagementSystem)**
-<br/>8-phase C# console app — OOP, Repository Pattern, SQL Server
-<br/>`C#` `SQL Server`
-
-</td>
-<td width="50%">
-
-**🎫 [IT_Support_Ticket_Logger](https://github.com/wantanaiCS/IT_Support_Ticket_Logger)**
-<br/>ระบบ log ticket แจ้งปัญหา IT
-<br/>`C#`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
