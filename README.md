@@ -117,16 +117,11 @@ ASP.NET Core MVC · Design Patterns · SQL Server Internals
 ## 📊 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wantanaiCS&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantanaiCS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wantanaiCS&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
