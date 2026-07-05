@@ -24,7 +24,9 @@
 
 <!-- ⬆️ ต้องตั้ง GitHub Action ก่อนถึงจะเป็นของคุณจริงๆ (บอกผมได้ ผมเขียน workflow ให้) -->
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=3&section=header" width="100%"/>
+</p>
 
 ## 🗂️ system.log
 
@@ -44,7 +46,9 @@ $ echo $CURRENTLY_LEARNING
 ASP.NET Core MVC · Design Patterns · SQL Server Internals
 ```
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=3&section=header" width="100%"/>
+</p>
 
 <table>
 <tr>
@@ -62,20 +66,20 @@ ASP.NET Core MVC · Design Patterns · SQL Server Internals
 
 ### 🚀 Roadmap
 
-```
-[✅] C# Fundamentals & OOP
-[✅] Repository Pattern
-[🔄] ASP.NET Core MVC
-[🔄] Design Patterns (GoF)
-[⬜] Cloud & CI/CD
-[⬜] Junior Developer role
-```
+![](https://img.shields.io/badge/C%23_Fundamentals-100%25-2EA043?style=flat-square)
+![](https://img.shields.io/badge/Repository_Pattern-100%25-2EA043?style=flat-square)
+![](https://img.shields.io/badge/ASP.NET_Core_MVC-60%25-yellow?style=flat-square)
+![](https://img.shields.io/badge/Design_Patterns-45%25-yellow?style=flat-square)
+![](https://img.shields.io/badge/Cloud_%26_CI%2FCD-10%25-lightgrey?style=flat-square)
+![](https://img.shields.io/badge/Junior_Dev_Role-Loading...-blue?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=3&section=header" width="100%"/>
+</p>
 
 ## 🧬 Stack
 
@@ -83,7 +87,9 @@ ASP.NET Core MVC · Design Patterns · SQL Server Internals
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,ts,mssql,vscode,git,github&theme=dark" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=3&section=header" width="100%"/>
+</p>
 
 ## 📦 Featured Builds
 
@@ -116,19 +122,21 @@ ASP.NET Core MVC · Design Patterns · SQL Server Internals
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=wantanaiCS&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wantanaiCS&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=3&section=header" width="100%"/>
+</p>
 
 ## 💬 Terminal Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=2EA043&center=true&vCenter=true&width=750&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22+-+Cory+House;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22" alt="Typing quote" />
 </p>
 
 <br/>
